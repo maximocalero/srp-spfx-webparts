@@ -1,0 +1,26 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.divInputcontainer {
+  margin: auto;
+  width: 50%;
+}
+
+.inputLabel {
+  display: block;
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.inputLabelComida {
+  display: block;
+  padding-top: 10px;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin: auto;
+  width: 50%;
+}
+
+.buttonForm{
+  margin-top: 10px;
+}
